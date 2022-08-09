@@ -413,7 +413,7 @@ html::-webkit-scrollbar-thumb {
  
 .skill .boxx .progress .bart span{
     display: block;
-    background: #B08D74;
+    background: #e7cdba;
     height: 100%;
     width: 95%;
 }
@@ -494,7 +494,7 @@ html::-webkit-scrollbar-thumb {
 }
 
 .services .boxx-container .boxxx:hover{
-    background:#b18c71;
+    background:#e7cdba;
 }
 
 .services .boxx-container .boxxx:hover p,

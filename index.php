@@ -397,6 +397,15 @@ if(isset($message)){
             <a href="image/Vasos.png" class="image ecommerce">
                 <img src="image/Vasos.png" alt="">
             </a>
+            <a href="image/Band.png" class="image ecommerce">
+                <img src="image/Band.png" alt="">
+            </a>
+            <a href="image/RockPlace.png" class="image ecommerce">
+                <img src="image/RockPlace.png" alt="">
+            </a>
+            <a href="image/port4.png" class="image trip">
+                <img src="image/port4.png" alt="">
+            </a>
     
         </div>   
         
@@ -450,7 +459,11 @@ if(isset($message)){
                <div class="list">
                 <video src="./video/Ecommerce.mp4" class="list-video"></video>
                   <h3 class="list-title">E-commerce</h3>
-               </div>   
+               </div>
+               <div class="list">
+                <video src="./video/RockPlace-1.mp4" class="list-video"></video>
+                  <h3 class="list-title">RockPlace</h3>
+               </div>    
             </div>         
          </div>        
     </div>
